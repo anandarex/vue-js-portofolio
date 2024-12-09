@@ -1,25 +1,25 @@
 {
-    "name": "Jonas Einstein",
+    "name": "Rizki Anandar Saputra",
     "profilePictureUrl": "images/pictures/avatar.png",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "credits": "Made by <strong><a class='light' href='https://github.com/anandarex'>Rizki Anandar</a></strong>",
+            "role": "Front End Developer"
         },
 
         "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/anandarex'>Rizki Anandar</a></strong>",
+            "role": "Developer de Front End"
         },
 
         "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/anandarex'>Rizki Anandar</a></strong>",
+            "role": "Front End Developer"
         },
 
         "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
+            "credits": "设计：<strong><a class='light' href='https://github.com/anandarex'>Rizki Anandar</a></strong>",
             "role": "用户体验设计师"
         }
     },
@@ -27,58 +27,58 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "Rempoa, Tangerang Selatan",
+            "valueShort": "",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
 
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "rizkianandar@gmail.com",
+            "valueShort": "rizkianandar@gmail.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "mailto:rizkianandar@gmail.com"
         },
 
         "facebook": {
             "id": "facebook",
-            "value": "Jonas Einstein",
-            "valueShort": "J. Einstein",
+            "value": "Rizki Anandar Saputra",
+            "valueShort": "Rizki Anandar",
             "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
+            "href": "https://www.facebook.com/rizki.a.saputra.3388630"
         },
 
         "github": {
             "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@anandarex",
+            "valueShort": "@anandarex",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/anandarex"
         },
 
         "instagram": {
             "id": "instagram",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@anandarec",
+            "valueShort": "@anandarec",
             "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
+            "href": "https://instagram.com/anandarec"
         },
 
         "linkedin": {
             "id": "linkedin",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
+            "value": "@ranandars",
+            "valueShort": "@ranandars",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://linkedin.com/in/ranandars/"
         },
 
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+6281316238937",
+            "valueShort": "081316238937",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:1234567890"
+            "href": "tel:+6281316238937"
         }
     }
 }
